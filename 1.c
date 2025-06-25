@@ -13,7 +13,7 @@ int main(){
 
 	// c, d, e: handle character value
 
-	char a = ";";
+	char a = ';';
 	char other_characters_output[] = "Other Characters";
 	char numbers_output[] = "numbers";
 
